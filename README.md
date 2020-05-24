@@ -1,7 +1,7 @@
 # DevOps3
 Lesson 3 in Udacity's DevOps program
 
-I used two sets of files instead of one because this is in accordance to best practices. The project goals seems to assume one set of files, but do not explicitly rule out using 2 sets of files. With 2 sets of files it is necessary to first create the network stack before creating the other stack. First, run "./create.sh projectStackNetwork final-project-network.yml final-project-network-parameters.json". Second, run "./create.sh projectStack final-project.yml final-project-parameters.json".
+I modified the code I had been working on throughout the lesson. I used two sets of files instead of one because this is in accordance to best practices. The project goals seems to assume one set of files, but do not explicitly rule out using 2 sets of files. With 2 sets of files it is necessary to first create the network stack before creating the other stack. First, run "./create.sh projectStackNetwork final-project-network.yml final-project-network-parameters.json". Second, run "./create.sh projectStack final-project.yml final-project-parameters.json".
 
 In the rubric,
 
