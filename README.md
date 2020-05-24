@@ -9,4 +9,4 @@ In the rubric,
 and
 "Bastion Host: Any resource of type AWS::EC2::Instance, optional, but nice to have."
 
-Seem to contradict each other, but since one is optional, I won't dwell on this.
+seem to contradict each other, but since one is optional, I won't dwell on this.
